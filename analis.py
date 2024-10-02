@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the Excel file
-file_path = '/path/to/your/dataKasus-1.xlsx'
+file_path = '/content/dataKasus-1.xlsx'
 xls = pd.ExcelFile(file_path)
 
 # Load the sheet named '2022'
